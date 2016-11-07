@@ -1,0 +1,22 @@
+body {
+	padding-top: 3em;
+	position: relative;
+}
+.pass_age {
+	margin-top: 6em;
+	margin-buttom: 10em;
+}
+.pass_age2 {
+	margin-top: 9em;
+	margin-buttom: 10em;
+}
+.page-header {
+	margin: 0;
+	padding: 0;
+}
+.navbar-nav {
+	margin-left: 8em;
+}
+.container-fluid {
+	margin-left: 1em;
+}

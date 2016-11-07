@@ -1,0 +1,79 @@
+body {
+	background: #f7f4f7;
+}
+li {
+	list-style-type: none;
+}
+
+#bs-example-navbar-collapse-1 {
+	width: 63.125em;	/*display: table;*/
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*#carousel-example-captions {
+	margin: 0 auto;
+	width: 61.25em;
+}*/
+
+
+div p.centerin {
+	width: auto;
+	margin: 0 auto;
+}
+
+form.navbar-form{
+	margin-right: 1em;
+} 
+
+.container-fluid,
+.navbar navbar-default,
+ul .dropdown-menu,
+.panel div.panel-heading
+{
+	/*background: #8EE7CC;*/
+	/*border-color: #8EE7CC;*/
+}
+h1 {
+	/*color: #000;*/
+}
+
+h2 {
+	margin: 0.3em auto;
+	width: 4em;
+	text-align: center;
+}
+
+.active1 {
+	background-color: #f7f4f7;
+}
+.page-header {
+	margin-bottom: 0;
+	padding-bottom: 1em;
+}
+
+.btn-sty {
+	margin-bottom: 1em;
+	margin-top: 1em;
+}
+
+.tab-pane {
+	padding: 1em 3em 3em 2em;
+}
+
+.sidebar {
+	margin-top: 3em;
+}
+div.main-content {
+	padding: 3em 1em 3em 2em;
+	margin-top: 3em;
+	background-color: #fff;
+}
+
+#myTab li {
+	display: inline;
+}
+#myTab {
+	margin-left: 3em;
+}
+

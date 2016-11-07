@@ -1,0 +1,82 @@
+body {
+	background: #f7f4f7;
+	position: relative;
+}
+li {
+	list-style-type: none;
+}
+#bs-example-navbar-collapse-1 {
+	width: 63.125em;	/*display: table;*/
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div p.centerin {
+	width: auto;
+	margin: 0 auto;
+}
+form.navbar-form {
+	margin-right: 1em;
+}
+
+.active1 {
+	background-color: #f7f4f7;
+}
+.scrollspy-example {
+	margin-left: 1em auto
+	margin-right:1em auto;
+}
+.pass_age {
+	margin-top: 1em;
+	margin-bottom: 7em;
+}
+.page-header {
+	background-color: #3788DA;
+	padding-top: 2em;
+	margin-top: 0;
+	height: 10em;
+	opacity: 1;
+	alpha: (opacity);
+	color: #ffffff;
+}
+.gradient {
+	filter: alpha(opacity=50 finishopacity=50 style=1 startx=0, starty=0, finishx=0, finishy=150) 
+	progid:DXImageTransform.Microsoft.gradient(startcolorstr=#006BDC, endcolorstr= #3788DA, gradientType=0);
+	-ms-filter: alpha(opacity=50 finishopacity=50 style=1 startx=0, starty=0, finishx=0, finishy=150) 
+	progid:DXImageTransform.Microsoft.gradient(startcolorstr=#006BDC, endcolorstr= #3788DA, gradientType=0);/*IE8*/
+	background: #3788DA; /* 一些不支持背景渐变的浏览器 */
+	background: -moz-linear-gradient(top, #056BF7, rgba(55, 136, 218, 0.8));
+	background: -webkit-gradient(linear, 0 0, 0 bottom, from(#056BF7), to(rgba(55, 136, 218, 0.8)));
+}
+.page-header h1 {
+	margin-top: 0.3em;
+}
+.page-header small {
+	color: #ffffff;
+}
+
+.foot-less {
+	filter: alpha(opacity=50 finishopacity=50 style=1 startx=0, starty=0, finishx=0, finishy=150) 
+	progid:DXImageTransform.Microsoft.gradient(startcolorstr=#3788DA, endcolorstr=#006BDC, gradientType=0);
+	-ms-filter: alpha(opacity=50 finishopacity=50 style=1 startx=0, starty=0, finishx=0, finishy=150) 
+	progid:DXImageTransform.Microsoft.gradient(startcolorstr=#3788DA, endcolorstr=#006BDC, gradientType=0);/*IE8*/
+	background: #3788DA; /* 一些不支持背景渐变的浏览器 */
+	background: -moz-linear-gradient(top, #3788DA, rgba(0, 107, 220, 1));
+	background: -webkit-gradient(linear, 0 0, 0 bottom, from(#3788DA), to(rgba(0, 107, 220, 1)));
+	color: #f7f4f7;
+}
+#roll1 li, #roll2 li {
+	height: 50px;
+	line-height: 30px;
+	overflow: hidden;
+	position: relative;
+	width: 100%;
+}
+#roll1 li div, #roll2 li div {
+	position: absolute;
+}
+.copyright {
+	background-color: #3788DA;
+	color: #fff;
+	text-align: center;
+}
